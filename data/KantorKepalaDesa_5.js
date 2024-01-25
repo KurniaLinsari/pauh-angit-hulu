@@ -1,0 +1,1 @@
+var json_KantorKepalaDesa_5 = {"type":"FeatureCollection","name":"KantorKepalaDesa_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"300","nama":"Kantor Kepala Desa"},"geometry":{"type":"Point","coordinates":[101.659618337688727,-0.438977481943693]}}]}

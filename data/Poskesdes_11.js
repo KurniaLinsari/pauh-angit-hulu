@@ -1,0 +1,1 @@
+var json_Poskesdes_11 = {"type":"FeatureCollection","name":"Poskesdes_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"113","tempat":"Poskesdes"},"geometry":{"type":"Point","coordinates":[101.659215459669625,-0.439232810687814]}}]}
